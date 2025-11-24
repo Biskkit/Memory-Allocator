@@ -1,4 +1,4 @@
-This was a project for a course. All work in the `sfmm.c` file is my own. The purpose of the assignment wwas to implement a dynamic memory allocator with basic functions mimicking `free()`, `malloc()`, etc.
+This was a project for a course. All work in the `sfmm.c` file is my own. The purpose of the assignment was to implement a dynamic memory allocator with basic functions mimicking `free()`, `malloc()`, etc.
 
 ## DISCLAIMER:
 * The `sfmm.h` file was provided by the instructor. It contains assignment specifications, data structures, and comments that are **not my work**.
